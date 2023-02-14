@@ -12,7 +12,7 @@ require (
 	contrib.go.opencensus.io/exporter/stackdriver v0.13.5
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239 // indirect
-	github.com/aws/aws-sdk-go v1.30.15
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/bradfitz/go-smtpd v0.0.0-20170404230938-deb6d6237625
 	github.com/coreos/go-systemd v0.0.0-20181012123002-c6f51f82210d
 	github.com/davecgh/go-spew v1.1.1
