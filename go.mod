@@ -31,13 +31,13 @@ require (
 	github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
 	go.opencensus.io v0.23.0
 	go4.org v0.0.0-20180809161055-417644f6feb5
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/perf v0.0.0-20180704124530-6e6d33e29852
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
-	golang.org/x/sys v0.0.0-20201214210602-f9fddec55a1e
-	golang.org/x/text v0.3.3
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/sys v0.5.0
+	golang.org/x/text v0.7.0
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
 	google.golang.org/api v0.20.0
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013
